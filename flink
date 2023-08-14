@@ -1,0 +1,2 @@
+
+flink运行在yarn上的模式会根据 JobManager的中任务的需求量自动的启动多个taskManager.
